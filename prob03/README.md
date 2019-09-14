@@ -1,9 +1,9 @@
 # Sales Prediction
 In this program, you will be using C++ programming constructs, such as cin, cout, arithmetic and assignment operators.
 
+## main.cpp
 CompanyX produced total sales of $2,103,419,277 in 2018. Their sales so far for 2019 show sales have increased by 18%.
 
-## main.cpp
 Write a program that prints out last year's sales as well as the prediction for this year's sales, assuming this year's sales continue to show the 18% increase.
 
 *Please use whole numbers only (i.e., integer data types, rather than floating point for this exercise).*
