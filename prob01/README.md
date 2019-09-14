@@ -1,4 +1,4 @@
-# Displaying characters and using the sizeof operator
+# Manipulating char, and data overflow
 In this program, you will be learning to use the basic C++ programming constructs, such as cout, sizeof, dec, hex, and the ASCII character set, as well as viewing what happens with variable overflow.
 
 ## main.cpp
