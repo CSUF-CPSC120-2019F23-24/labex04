@@ -23,7 +23,8 @@ int main()
 
   // TODO#3: again add one to the character to see what gets printed out
   // and add a comment explaining why the value of the character is no
-  // longer alphabetic
+  // longer alphabetic. Hint: look in the ASCII character chart to find
+  // what character immediately follows the character 'z'
 
   char my_char3a = 'z';
   char my_char3b = ;
