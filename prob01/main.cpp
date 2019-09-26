@@ -5,19 +5,19 @@
 int main()
 {
   // TODO#1: use the "static_cast" operator to cast the character to a short
-  // then print both the char and the short
+  // and print both the char and the short
 
   char my_char1 = 'J';
-  short my_short1 = ;
-  std::cout << "The ASCII value for " << my_char1 << " is " << my_short1 << std::endl;
+  std::cout << "The ASCII value for " << my_char1 << " is " << *** << std::endl;
 
   std::cout << std::endl; // blank line to separate output from the different exercises
 
   // TODO#2: add one to the character to see what gets printed out
 
-  char my_char2 = 'C';
-  my_char2 = ;
-  std::cout << "Char1: " << my_char2 << std::endl;
+  char my_char2a = 'C';
+  char my_char2b = ;
+  std::cout << "Char " << my_char2a << " becomes " << my_char2b
+    << " after adding 1." << std::endl;
 
   std::cout << std::endl; // blank line to separate output from the different exercises
 
@@ -25,9 +25,10 @@ int main()
   // and add a comment explaining why the value of the character is no
   // longer alphabetic
 
-  char my_char3 = 'z';
-  my_char3 = ;
-  std::cout << "Char2: " << my_char3 << std::endl;
+  char my_char3a = 'z';
+  char my_char3b = ;
+  std::cout << "Char " << my_char3a << " becomes " << my_char2b
+    << " after adding 1." << std::endl;
 
   std::cout << std::endl; // blank line to separate output from the different exercises
 
