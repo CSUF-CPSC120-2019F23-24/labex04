@@ -57,7 +57,7 @@ int main()
   std::cout << std::endl; // blank line to separate output from the different exercises
 
   // TODO#5: print each number, then add one to each number and print it again
-  // also add a comment to explain why my_short2 value became negative after
+  // also add a comment to explain why my_short2 value became zero after
   // adding one, but my_int2 did not
 
   unsigned short my_short3 = 65535; // maximum value for an unsigned short
