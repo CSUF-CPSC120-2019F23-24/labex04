@@ -1,5 +1,3 @@
-// make sure the average includes decimal digits
-
 #include <iostream>
 
 int main()
