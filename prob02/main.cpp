@@ -1,4 +1,5 @@
-// This program reads in 3 integers, and calculates the average of the numbers
+// This program reads in 3 integers, and calculates the average of the
+// numbers, including decimal digits
 
 #include <iostream>
 
